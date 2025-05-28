@@ -1,4 +1,4 @@
-<p>A pre-final year BTech CSE student at Amity University, expected to graduate in 2026. Currently a DevOps Engineer, where I specialize in deploying and managing cloud infrastructure on AWS. My passion for technology drives me to continuously upskill, and I’m always eager to step out of my comfort zone to embrace new challenges.</p>
+<p>A final year BTech CSE student at Amity University, expected to graduate in 2026. Currently a DevOps Engineer, where I specialize in deploying and managing cloud infrastructure on AWS. My passion for technology drives me to continuously upskill, and I’m always eager to step out of my comfort zone to embrace new challenges.</p>
 
 <hr>
 
