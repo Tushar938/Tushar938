@@ -56,6 +56,3 @@
 To contact me kindly mail at tpant134@gmail.com
 
 Check out my blogs at tusharpant.online/directory
-
-
-Hello
